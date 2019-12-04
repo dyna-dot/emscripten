@@ -61,7 +61,7 @@
     "he": "1.2.x",
     "param-case": "2.1.x",
     "relateurl": "0.2.x",
-    "uglify-js": "3.4.x"
+    "uglify-js": "3.7.0"
   },
   "deprecated": false,
   "description": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
